@@ -1,7 +1,13 @@
+
+
+import TitleBox from "./TitleBox"
+
 function TitleBoxes() {
     return(
 
         <div className="row text-center">
+
+        <TitleBox />
 
             <div className="col-lg-3 col-md-6 mb-4">
                 <div className="card h-100">
